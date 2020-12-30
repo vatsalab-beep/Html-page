@@ -1,5 +1,39 @@
-<!Doctype html >
+<!DOCTYPE html>
 <html>
+  <head>
+     <title> Slimefun </title>
+ </head>
+ <body>
+    <h1> Slimetime! </h1>
 
+    <a href="./Howto.html" > How to make slime </a> 
+    &nbsp;&nbsp; 
+    <a href="./One.html" > 1-ingredient Slime </a>
+       &nbsp;&nbsp;
+    <a href = "https://www.cnet.com/how-to/everything-you-need-to-know-about-slime/" target = "_blank"> All about Slime </a>
 
+    <h3> What is it Made of? </h3 
+
+      <p> Slime is a gooey, sticky substance made by mixing a compound called sodium Borate, or Borax, with water. It has a thick, glue-like texture and can be made in a variety of colours.  </p> 
+
+    <h3> Why are kids obssessed with slime? </h3
+
+      <p> Slime has a strechy feature and it can have different types of sounds that it makes.  </p> 
+
+    <h3> What kinds of slime are there? </h3
+  <div>
+     <p> Butter Slime </p>
+     <a href="./Butter.html">
+     <img src="https://i.etsystatic.com/23592543/r/il/fb94b7/2352674586/il_570xN.2352674586_jl87.jpg" alt = "Slime image" width = "100" height="100" >
+      </a>
+     <p> Stretchy Slime </p>
+     <img src="https://i.ytimg.com/vi/b8mLP3dTHLQ/maxresdefault.jpg" alt = "Slime image" 
+     width = "100" height = "100" >
+    
+  </div>
+  <h3> Satisfying Slime Videos </h3 
+  <body>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jGtBccO969I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </body> 
+  </body>
 </html>
